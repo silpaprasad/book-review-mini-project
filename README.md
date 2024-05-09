@@ -1,4 +1,5 @@
 # book-review-mini-project
+## Book Review platform with OpenHPI 
 Webpage for users to discover, review and recommend books including features like book search, ratings and user- generated reviews
 ### Functional Requirements
 ```
